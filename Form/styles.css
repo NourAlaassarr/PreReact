@@ -1,0 +1,32 @@
+
+body{
+    background-color: brown;
+}
+/* .Title{
+    background-color: yellow;
+    margin-bottom: 40px;
+    width: 20%;
+    font-size: small;
+} */
+
+.containter
+{
+    background-color: brown;
+    width: 90%;
+}
+.MyName{
+    background-color: yellow;
+    width: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    align-content: center;
+    font-size: medium;
+    height: 100px;
+}
+.Title{
+    text-align: left;
+    color: blue;
+    background-color: rgb(239, 239, 239);
+    width: 10%;
+    font-size: small;
+}
