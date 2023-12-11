@@ -1,0 +1,84 @@
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.Home{
+
+    background-image: url("./Image/drew-coffman-1872.jpg");
+    background-size: cover;
+    height: 100vh;
+    background-position: center center;
+}
+
+
+.Container{
+    
+    
+    
+}
+
+.Navbar{
+    
+    /* border: 5px rgb(10, 13, 207) solid; */
+}
+.nav_links{
+    float: right;
+    margin-top: 30px;
+    
+    /* border: 2px fuchsia solid; */
+}
+.nav_links a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    
+    /* border: 10px rgb(54, 122, 15) solid; */
+}
+.clear_left{
+    clear: both;
+}
+.Nav_Logo{
+    size: 100%;
+    filter:brightness(-50%)
+}
+.HomeTexts{
+    text-align: center;
+    color: white;
+    
+}
+.HomeTexts p{
+    font-size: 20px;
+    
+}
+.HomeTexts h1{
+    padding: 30px;
+    font-size: 55px;
+}
+.btn{
+    padding: 17px;
+    color:aliceblue;
+    margin: 20px 5px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.btn1{
+    background-color: #8e7754;
+    border: #8e7754;
+}
+.bt2{
+    background-color: transparent;
+    border: white 2px solid;
+}
+.AboutUsContainer{
+    margin: 50px 50px;
+}
+.Image_about{
+    
+    width: 100%
+}
+.AboutText{
+    border: solid salmon 3px;
+}
