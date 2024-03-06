@@ -1,0 +1,15 @@
+img{
+    width: 400px;
+    position: relative;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-name: move;
+
+
+}
+@keyframes move{
+0%{left:0 ; top: 0%;transform: rotateY(0deg);}
+50%{left:1000px;top: 0;transform: rotateY(0deg);}
+51%{left:1000px;top: 0;transform: rotateY(180deg);}
+100%{left:0px;top: 0;transform: rotateY(180deg);}
+}
